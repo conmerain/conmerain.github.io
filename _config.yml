@@ -85,9 +85,9 @@ service-worker: true
 
 
 # Friends
-friends: [
-  {
-      title: "小风果果",
-      href: "http://blog.funnynode.com"
-  }
-]
+# friends: [
+#   {
+#       title: "小风果果",
+#       href: "http://blog.funnynode.com"
+#   }
+# ]
